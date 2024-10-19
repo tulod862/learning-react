@@ -5,7 +5,7 @@ import { firebase } from './firebaseConfig';
 
 const SignupScreen = () => {
   const [username, setUsername] = useState('tulod862@gmail.com');
-  const [password, setPassword] = useState('rhea122497');
+  const [password, setPassword] = useState('');
 
   const handleSignup = async () => {
     try {
