@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDLF_HniPLreDVGAxQ-b0YSA1-7rSarilc", 
+  apiKey: "API_Key", 
   authDomain: "trackerly-158c3.firebaseapp.com",
   projectId: "trackerly-158c3",
   storageBucket: "trackerly-158c3.appspot.com",
